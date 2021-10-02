@@ -53,5 +53,4 @@ for sentence in tqdm(sentences):
         + "\t" + str(dependency_sum) + "\t" + str(dependency_avg) + "\n")
     analyzed_f.write("\n")
 
-
 analyzed_f.close()

@@ -24,5 +24,5 @@ for i,sentence in enumerate(train):
     f.write(sentence.conll() + "\n")
 f.write("\n")
 
-# with open("fixed_acl_" + conll_file_location, 'w', encoding='utf-8') as f:
-#     train.write(f)
+with open("fixed_acl_" + conll_file_location, 'w', encoding='utf-8') as f:
+    train.write(f)
