@@ -2,7 +2,7 @@ import pyconll
 import os
 import random
 
-folder_path = "./"
+folder_path = "./samples_only/"
 
 sample = pyconll.load_from_file(folder_path + "fixed_acl_sc1650de_..conllu")
 
