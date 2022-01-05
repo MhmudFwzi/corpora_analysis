@@ -1,4 +1,4 @@
-# Sentence Length Analysis Scripts
+# Data Preparation and Analysis Scripts for DTAW and RSC
 
 This is a set of scripts used to separate, preprocess, parse, analyze, and visualize the DTAW and RSC corpora.
 
